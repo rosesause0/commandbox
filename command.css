@@ -1,0 +1,102 @@
+.m2 .freebirdFormviewerViewFormContent {
+  max-width: 530px;
+}
+.m2 .freebirdFormviewerViewNavigationNavControls .freebirdFormviewerViewNavigationButtonsAndProgress {
+  margin-top: 0px;
+  transform: translate(534px, -48px)
+}
+
+.freebirdFormviewerViewItemsTextTextItem .freebirdFormviewerViewItemsTextShortText:not(.freebirdFormviewerViewItemsTextDisabledText){
+    width: 100%;
+    padding-bottom: 0px;
+}
+.m2 .freebirdFormviewerViewFormContent{
+    height: 60px;
+}
+.freebirdFormviewerViewHeaderHeader {
+    display: none;
+}
+.m2 .freebirdFormviewerViewItemsTextItemWrapper {
+    height: 24px;
+    padding: 4px;
+}
+.m2 .freebirdFormviewerViewItemsItemItem {
+    background-color: #000000;
+    border: 3px solid rgb(103, 58, 183);
+    border-radius: 0px;
+    margin-left: 0px;
+    padding: 4px;
+    margin-top: 0;
+    margin-bottom: 0;
+    page-break-inside: avoid;
+}
+.m2 .freebirdFormviewerViewItemsItemItemHeader {
+  margin-bottom: 0px;
+}
+.freebirdFormviewerViewItemsTextTextItem .freebirdFormviewerViewItemsTextShortText.freebirdFormviewerViewItemsTextUrl, .freebirdFormviewerViewItemsTextTextItem .freebirdFormviewerViewItemsTextLongText {
+  padding-bottom: 2px;
+}
+.quantumWizTextinputPapertextareaContentArea {
+  display: flex;
+  position: relative;
+  padding-top: 0px;
+}
+.m2 .freebirdFormviewerViewItemsTextTextItem .freebirdFormviewerViewItemsTextShortText .exportLabel, .m2 .freebirdFormviewerViewItemsTextTextItem .freebirdFormviewerViewItemsTextLongText .exportLabel {
+    color: #000000;
+}
+.m2 .freebirdFormviewerViewItemsTextTextItem .freebirdFormviewerViewItemsTextShortText .exportInput, .m2 .freebirdFormviewerViewItemsTextTextItem .freebirdFormviewerViewItemsTextLongText .exportTextarea {
+    font-family: Courier New;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: -4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    line-height: 20px;
+    color: #ffffff;
+    display:block;
+
+}
+.freebirdThemedInput .exportHint {
+    color: #000000;
+}
+.freebirdFormviewerViewNavigationButtonsAndProgress {
+    display: inline-block;
+}
+.freebirdThemedFilledButtonM2 {
+  height: 42px;
+  padding-top: 6px;
+  background-color: rgb(103, 58, 183);
+  transition: box-shadow 280ms cubic-bezier(0.4,0.0,0.2,1);
+  transition: background .2s .1s;
+  border: 0;
+  border-radius: 0px;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: .25px;
+  line-height: 36px;
+  text-decoration: none;
+  text-transform: none;
+  min-width: auto;
+  outline: none;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  z-index: 0;
+}
+.freebirdFormviewerViewEmbedded .freebirdFormviewerViewCenteredContent {
+  margin: 0px;
+}
+
+.appsMaterialWizButtonPaperbuttonContent .appsMaterialWizButtonPaperbuttonLabel {
+  font-family: Courier New;
+}
+
+.freebirdFormviewerViewFooterEmbeddedBackground {
+  display: none;
+}
+
+.m2 .freebirdFormviewerViewNavigationPasswordWarning {
+  display: none;
+}
